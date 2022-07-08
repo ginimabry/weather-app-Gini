@@ -2,17 +2,17 @@
   color: rgb(64, 9, 99);
   font-weight: 400;
   display: block;
-  background-color: #b2d732;
+  background-color: #f7f7d4;
 }
 
 .fa-sun {
   color: black;
   display: block;
-  background-color: #b2d732;
+  background-color: #f7f7d4;
 }
 
 .card-body {
-  background-color: #b2d732;
+  background-color: #f7f7d4;
 }
 
 h1,
@@ -22,7 +22,7 @@ h2 {
 
 .city-name {
   background-color: #66b032;
-  border-color: #b2d732;
+  border-color: #f7f7d4;
 }
 
 .sunny {
